@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=4 format=3 uid="uid://cy2blhfrdlg64"]
+
+[ext_resource type="Texture2D" uid="uid://bvtdxpfiybf3s" path="res://src/gameplay/collectibles/food_atlas.tres" id="1_61elp"]
+[ext_resource type="Script" path="res://src/gameplay/collectibles/food.gd" id="2_4pcn3"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_8w5i4"]
+atlas = ExtResource("1_61elp")
+region = Rect2(64, 64, 16, 16)
+
+[resource]
+script = ExtResource("2_4pcn3")
+img = SubResource("AtlasTexture_8w5i4")
+points = 1500

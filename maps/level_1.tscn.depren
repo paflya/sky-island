@@ -1,0 +1,4 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Texture2D" uid="uid://b1d7rlue8l6ea" path="res://assets/tilemaps/jungle tileset.png" id="1_ef4ir"]
+[ext_resource type="PackedScene" uid="uid://dh2f228q4ch87" path="res://src/player.tscn" id="2_mys6e"]

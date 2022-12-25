@@ -1,0 +1,6 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://bxr8ucdltjgbd"]
+
+[ext_resource type="FontFile" uid="uid://cfg6bxgh324uc" path="res://fonts/Toriko.ttf" id="1_qntus"]
+
+[resource]
+font = ExtResource("1_qntus")
